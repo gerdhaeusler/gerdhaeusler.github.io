@@ -3,8 +3,8 @@
 
 [Youtube Channel](https://www.youtube.com/user/Osmin3D)  
 
+</br>    
 </br>  
-</br>
 
 J =  Reviewed journal   
 C = Conference paper / Technical Journal   
@@ -14,13 +14,16 @@ V = Video
 B = Book / Book article   
 X = arXiv   
 
+</br>    
+</br> 
+
 
 
 I 310  
 [Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019.pdf)   
 G.Häusler  
 Computational Senssing and Imaging (COSI), Munich, June 24-27. 2019  
-</br>  
+ 
 
 
 J 308  
