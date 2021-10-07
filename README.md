@@ -3,8 +3,7 @@
 
 [Youtube Channel](https://www.youtube.com/user/Osmin3D)  
 
-</br>    
-</br>  
+ 
 
 J =  Reviewed journal   
 C = Conference paper / Technical Journal   
@@ -14,8 +13,7 @@ V = Video
 B = Book / Book article   
 X = arXiv   
 
-</br>    
-</br> 
+
 
 
 
