@@ -16,7 +16,7 @@ X = arXiv
 
 
 I 310  
-[Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019.pdf)   
+[Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019)   
 G.Häusler  
 Computational Senssing and Imaging (COSI), Munich, June 24-27. 2019   
 
