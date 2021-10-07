@@ -35,7 +35,7 @@ F. Willomitzer, S. Ettl, C. Faber, G. Häusler.
 Applied Optics, 54(3), 408-417, 2015  
 </br>  
 
-I 300
+I 300  
 [*A stroll through 3D imaging and measurement*](http://e-ico.org/sites/default/files/pdfs/ICOJul15-5.pdf)  
 G. Häusler, F. Willomitzer  
 ICO Newsletter, No. 104, 2015  
