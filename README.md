@@ -30,9 +30,10 @@ G.Häusler
 Computational Senssing and Imaging (COSI), Munich, June 24-27. 2019  
  
 C 309  
-[Instantaneous speckle reduction? Yes, but there is no free lunch!](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/10834/108340B/Instantaneous-speckle-reduction-Yes-but-there-is-no-free-lunch/10.1117/12.2317925.short?SSO=1)  
+[Instantaneous speckle reduction? Yes, but there is no free lunch!](https://neurophotonics.spiedigitallibrary.org/conference-proceedings-of-spie/10834/108340B/Instantaneous-speckle-reduction-Yes-but-there-is-no-free-lunch/10.1117/12.2317925.short?SSO=1)   
 Gerd Häusler, Florian Dötzer, Klaus Mantel, Proc. SPIE 10834, Speckle 2018:
-VII International Conference on Speckle Metrology, 108340B (7 September 2018);
+VII International Conference on Speckle Metrology, 108340B (7 September 2018);  
+[pdf instantaneous...](https://github.com/gerdhaeusler/gerdhaeusler.github.io/blob/main/T%20309.%20108340B.pdf)
 
 J 308  
 [Single-shot 3D motion picture camera with a dense point cloud](https://www.osapublishing.org/abstract.cfm?uri=oe-25-19-23451)  
