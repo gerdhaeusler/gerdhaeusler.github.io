@@ -17,7 +17,7 @@ X = arXiv
 
 
 I 312 
-[Reflexions about holographic and non-holographic optical topography acquisition](https://arXiv:2112.05113)  
+[Reflexions about holographic and non-holographic optical topography acquisition](https://arXiv:2112.05113v1)  
 Gerd Häusler, Florian Willomitzer, submitted to Light: Advanced Manufacturing (LAM), December 2021. 
 
 J 311  
