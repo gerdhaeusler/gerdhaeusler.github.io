@@ -39,6 +39,16 @@ J 308
 [Single-shot 3D motion picture camera with a dense point cloud](https://www.osapublishing.org/abstract.cfm?uri=oe-25-19-23451)  
 F. Willomitzer, G. Häusler.  
 Optics Express 25(19), 23451-23464, 2017  
+  
+  
+C 307  
+[Speckle Reduction II, Laser projection without speckle noise? Experimental investigation“](http://www.dgao-proceedings.de/download/118/118_b2.pdf)  
+Florian Dötzer, Klaus Mantel, Gerd Häusler, in: DGaO-Proceedings 118, 2017, B2] 
+
+C 306  
+[Speckle Reduction I: There is no free lunch](http://www.dgao-proceedings.de/download/118/118_b1.pdf)  
+Florian Dötzer, Klaus Mantel, Gerd Häusler, in: DGaO-Proceedings 118, 2017, B1] 
+
 
 J 302  
 [Single-shot 3D sensing with improved data density](https://www.osapublishing.org/abstract.cfm?uri=ao-54-3-408)  
