@@ -50,7 +50,7 @@ C 306
 Florian Dötzer, Klaus Mantel, Gerd Häusler, in: DGaO-Proceedings 118, 2017, B1] 
 
 C 305.  
-[Single-shot phase-measuring deflectometry for cornea measurement](https://www.dgao-proceedings.de/download/116/116_a8.pdf)   
+[Single-shot phase-measuring deflectometry for cornea measurement]()   
 Hanning Liang, Evelyn Olesch, Zheng Yang and Gerd Häusler, in Adv. Opt. Techn. (2016) Volume 5, pp.433-438
 
 J 302  
