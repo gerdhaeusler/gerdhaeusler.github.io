@@ -18,7 +18,7 @@ X = arXiv
 
 I 311  
 [Reflexions about holographic and non-holographic optical topography acquisition](https://arxiv.org/abs/2112.05113) 
-Gerd Häusler, Florian Willomitzer, submitted to Light: Advanced Manufacturing (LAM), December 2021. 
+Gerd Häusler, Florian Willomitzer, submitted to Light: Advanced Manufacturing (LAM), December 2021. and in arXiv: https://arxiv.org/abs/2112.05113
 
 I 310  
 [Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019.pdf)   
