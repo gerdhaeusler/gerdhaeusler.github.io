@@ -57,17 +57,15 @@ J 303
 and https://github.com/gerdhaeusler/papers/blob/main/2016_303_ZY_SIM_speed.pdf  
 Z. Yang, A. Kessel and G. Häusler, Applied Optics, 55(7), 1713-1719 (2016)
 
-
 J 302  
 [Single-shot 3D sensing with improved data density](https://www.osapublishing.org/abstract.cfm?uri=ao-54-3-408)  
 F. Willomitzer, S. Ettl, C. Faber, G. Häusler.  
 Applied Optics, 54(3), 408-417, 2015  
  
-J 301 
+J 301  
 [Better 3D Inspection with structured Illumination: Signal Formation and Precision](https://github.com/gerdhaeusler/papers/blob/main/2015_300X_ZY__AK_GH_Better_3D_Inspection.pdf)  
 Z. Yang, A. Kessel and G. Häusler, Applied Optics, 54(22), 6652-6660 (2015), and in arXiv:1504.04556. 
 https://arxiv.org/abs/1504.04556
-
 
 I 300  
 [A stroll through 3D imaging and measurement](http://e-ico.org/sites/default/files/pdfs/ICOJul15-5.pdf)  
