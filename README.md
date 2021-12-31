@@ -1,8 +1,11 @@
 
-#  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg  
+#  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg 
+## Private website - draft 
+## pdf download for personal use only. No commercial use permitted.
 
-## The pdf documents may be downloaded only for personal use. No commercial use is permitted  
-## most relevant publications  
+# Publications
+
+## Most relevant publications  
 I 310  
 [Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019.pdf)   
 G.Häusler  
