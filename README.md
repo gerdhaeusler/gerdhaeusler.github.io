@@ -1,6 +1,7 @@
 
-##  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg  
+#  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg  
 ## Publications 2021-2015  
+## most relevant publications
 ## The pdf documents may be downloaded only for personal use. No commercial use is permitted.
 
 [Youtube Channel](https://www.youtube.com/user/Osmin3D)  
