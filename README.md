@@ -1,7 +1,12 @@
 
 #  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg  
 ## Publications 2021-2015  
-## most relevant publications
+## most relevant publications  
+I 310  
+[Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019.pdf)   
+G.Häusler  
+Computational Senssing and Imaging (COSI), Munich, June 24-27. 2019  
+
 ## The pdf documents may be downloaded only for personal use. No commercial use is permitted.
 
 [Youtube Channel](https://www.youtube.com/user/Osmin3D)  
