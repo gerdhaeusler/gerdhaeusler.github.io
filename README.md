@@ -1,18 +1,18 @@
 
 #  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg 
-## Private website - draft 
+## Private website in progress - draft 
 ## pdf download for personal use only. No commercial use permitted.
 
 # Publications
 
-## Most relevant publications  
+## Relevant publications  
 I 310  
 [Discover better Optical Sensors by Exploring and Exploiting Nature’s Limits](/GH_COSI_2019.pdf)   
 G.Häusler  
 Computational Senssing and Imaging (COSI), Munich, June 24-27. 2019  
 
 ## Publications 2021-2015. 
-## The pdf documents may be downloaded only for personal use. No commercial use is permitted
+## pdf documents downloaded for personal use only. No commercial use permitted
 
 [Youtube Channel](https://www.youtube.com/user/Osmin3D)  
 
