@@ -1,7 +1,7 @@
 
 #  Prof. Dr. Gerd Häusler, University of Erlangen-Nürnberg 
 ## Private website in progress - draft 
-## pdf download for personal use only. No commercial use permitted.
+## pdf download for personal use only. No commercial use permitted
 
 # Publications
 
@@ -12,7 +12,7 @@ G.Häusler
 Computational Senssing and Imaging (COSI), Munich, June 24-27. 2019  
 
 ## Publications 2021-2015. 
-## pdf documents downloaded for personal use only. No commercial use permitted
+## pdf download for personal use only. No commercial use permitted
 
 [Youtube Channel](https://www.youtube.com/user/Osmin3D)  
 
